@@ -12,4 +12,5 @@ The purpose of this repo is to maintain a list of Scala tutorials in multiple la
 1. [Twitter Scala School!: From ∅ to Distributed Service](http://twitter.github.io/scala_school/) / [Scala 课堂!：从 ∅ 到分布式服务](http://twitter.github.io/scala_school/zh_cn/index.html) / [Scala Школа!: Из ∅ к Распределенному Сервису](http://twitter.github.io/scala_school/ru/index.html)
 2. [Scala Tour](http://www.scala-tour.com/) / [Scala指南](http://zh.scala-tour.com/)
 3. [Scala by Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf)
+4. [Effective Scala](http://twitter.github.io/effectivescala) / [Effective Scala (中文)](http://twitter.github.io/effectivescala/index-cn.html) / [Effective Scala (Русский)](http://twitter.github.io/effectivescala/index-ru.html)
 
