@@ -14,3 +14,7 @@ The purpose of this repo is to maintain a list of Scala tutorials in multiple la
 3. [Scala by Example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf)
 4. [Effective Scala](http://twitter.github.io/effectivescala) / [Effective Scala (中文)](http://twitter.github.io/effectivescala/index-cn.html) / [Effective Scala (Русский)](http://twitter.github.io/effectivescala/index-ru.html)
 
+## Courses
+1. [**Coursera**: Functional Programming Principles in Scala *by Martin Odersky*](https://www.coursera.org/course/progfun)
+
+
